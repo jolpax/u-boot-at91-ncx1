@@ -1,0 +1,12 @@
+if TARGET_ncx1
+
+config SYS_BOARD
+	default "ncx1"
+
+config SYS_VENDOR
+	default "atmel"
+
+config SYS_CONFIG_NAME
+	default "ncx1"
+
+endif

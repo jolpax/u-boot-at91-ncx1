@@ -1,0 +1,9 @@
+NCX1 BOARD
+M:	Sandeep Sheriker M <sandeep.sheriker@microchip.com>
+M:	Eugen Hristev <eugen.hristev@microchip.com>
+S:	Maintained
+F:	board/atmel/ncx1/
+F:	include/configs/ncx1.h
+F:	configs/ncx1_mmc_defconfig
+F:	configs/ncx1_nandflash_defconfig
+F:	configs/ncx1_qspiflash_defconfig
